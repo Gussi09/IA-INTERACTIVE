@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IA Interactive</string>
+    <string name="prompt_email">User Name</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="welcome">Welcome!</string>
+    <string name="required_login">Username or Password must be >0</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">Login failed</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_movie">Movies</string>
+    <string name="card_number">Card Number Cinépolis</string>
+    <string name="retry">Retry</string>
+</resources>
